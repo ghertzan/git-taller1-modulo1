@@ -14,6 +14,8 @@ public class TestPilaEnlazada {
         miPila.push("Flavio");
 
         System.out.println(miPila.peek());
+        
+        miPila.push("Flavio");
 
     }
 }
