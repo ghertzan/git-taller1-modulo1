@@ -26,6 +26,7 @@ public class TestPilaEnlazada {
         miPila.push("Flavio");
 
         miPila.push("lalala");
+        miPila.push("lalala");
 
     }
 }
