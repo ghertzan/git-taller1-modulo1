@@ -32,7 +32,7 @@ public class PilaEnlazada<T> implements Pila<T> {
 
     @Override
     public void push(T elemento) {
-        tos = new Nodo<T>(elemento, tos);
+        tos = new Nodo<>(elemento, tos);
         size++;
     }
 
@@ -63,7 +63,6 @@ public class PilaEnlazada<T> implements Pila<T> {
         }else{
             T ret = tos.getInfo();
             this.pop();
-            size--;
             return ret;
         }
         
