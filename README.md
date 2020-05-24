@@ -3,4 +3,4 @@ Proyectos del primer módulo de la materia.
 <p>
 <b>Analizador de balance de Simbolos</b>
 <p>
-Utiliza una pila para analizar los simbolos '(', '[', '{' con sus respectivos cirres.
+Utiliza una pila para analizar los simbolos '(', '[', '{' con sus respectivos cierres.
